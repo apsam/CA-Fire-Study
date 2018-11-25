@@ -1,0 +1,309 @@
+Name,Time,County,Location,Acres,Containment
+Camp Fire,11/24/2018 20:07,Butte County,Pulga Road at Camp Creek Road near Jarbo Gap,"153,336",98,39.6519275,-121.5858444
+Woolsey Fire,11/21/2018 18:11,Los Angeles County,"E Street and Alfa Road Rd, South of Simi Valley","96,949",100,34.3155072,-118.2096814
+Hill Fire,11/16/2018 06:44,Ventura County,"Hill Canyon Rd and Santa Rosa Rd, Santa Rosa Valley","4,531",100,34.4458248,-119.0779359
+Nurse Fire,11/09/2018 11:56,Solano County,"off Highway 12 and Nurse Blue Road, Suisun City","1,500",90,38.2218938,-121.9163555
+Sierra Fire,11/14/2018 14:03,San Bernardino County,off Sierra Ave and Riverside Ave,147,85,34.8253019,-116.0833144
+Niles Fire,11/17/2018 08:23,Alameda County," off Palomares Road Niles Canyon Road, northwest of Sunol",20,90,37.6090291,-121.899142
+Eagle Fire,10/02/2018 18:36,Fresno County," Bobs Flat Trail, 3 miles north of Trimmer", , ,36.6713502,-119.8155355
+Donnell Fire,09/04/2018 15:25,Tuolumne County,"Near Hwy 108, Donnell Lake area in the Carson Iceburg Wilderness", , ,38.056944,-119.9919351
+Bear Fire ,11/19/2018 16:14,Santa Cruz County,"off Bear Creek Road and Mayfair Road, Boulder Creek north of Santa Cruz",10,100,37.050096,-121.9905908
+Morgan Fire,11/19/2018 16:14,Contra Costa County,"Off Morgan Territory Rd & Storybook Ln, east of San Ramon",20,100,37.9034806,-121.9175345
+Briggs Fire,11/19/2018 16:14,Ventura County,"off Shell Road and Orr Road, Santa Paula",150,100,34.4458248,-119.0779359
+Green Hill Fire,11/15/2018 08:55,Humboldt County,off Highway 299 in the area of Green Hill,1,100,40.5997415,-123.8997734
+Peak Fire,11/15/2018 08:55,Ventura County,"off Highway 118 and Rocky Peak Road, east of Simi Valley",186,100,34.4458248,-119.0779359
+Horn Fire,11/15/2018 08:56,Lassen County,"Horn Road and Mail Route Road, 9 miles southeast of Termo",88,100,40.7685579,-120.730998
+Brushy Fire,11/15/2018 08:54,Mendocino County,"near Dos Rios, off Highway 162, East of Highway 101 and West of Covelo",35,100,39.3176491,-123.4126399
+Adams Fire,11/06/2018 15:25,Tehama County,"off Adams Road at Barr Lane, southwest of Cottonwood",60,100,40.1251334,-122.2015529
+Rincon Fire,11/15/2018 08:56,Santa Cruz County,"off Highway 9 and Rincon Crossing, north of Santa Cruz",17,100,37.050096,-121.9905908
+June Fire,11/01/2018 20:36,Butte County,"Four Junes Way and Palermo, south of Palermo",550,100,39.6519275,-121.5858444
+Market Fire,10/30/2018 10:18,Tulare County,"Road 208 and Avenue 380, 5 miles north of Woodlake",120,100,36.2516475,-118.852583
+Camino Fire,10/24/2018 11:57,San Luis Obispo County,Off Lopez Drive east of Arroyo Grande,58,100,35.3540209,-120.3757163
+Powellton Fire,10/23/2018 08:26,Butte County,"Upper Powellton Rd and Skyway, north of Stirling City",10,100,39.6519275,-121.5858444
+Masonic Fire,10/16/2018 16:34,Shasta County,"Lake Blvd & Masonic Ave, Redding",38,100,40.7965121,-121.9979194
+Tower Fire,10/16/2018 15:48,Shasta County,"Cloverdale & Clear Creek, Near the community of Igo",12,100,40.7965121,-121.9979194
+Priest Fire,10/16/2018 15:47,Monterey County," Hwy 198 & Priest Valley Rd, east of San Lucas",167,100,36.2231079,-121.3877428
+Winters Fire,10/16/2018 16:24,Solano County,"Winters Rd & Allendale Rd, south of Winters",160,100,38.2218938,-121.9163555
+Iron Gate Fire,10/15/2018 13:41,Siskiyou County,1 mile northwest of Iron Gate Dam,15,100,41.5007223,-122.544354147521
+Branscombe Fire,11/15/2018 08:57,Solano County,"Branscombe Road south of Hwy 12, Suisun City","4,500",100,38.2218938,-121.9163555
+Park Fire,10/11/2018 08:54,Santa Clara County,"Monterey Road and Coyote Creek Golf Drive, north of Morgan Hill",63,100,37.2333253,-121.6846349
+Sun Fire,10/15/2018 13:42,Tehama County,"Hwy 36 and Sunriver Road, east of Red Bluff","3,889",100,40.1251334,-122.2015529
+Nacimiento Fire,10/11/2018 08:52,Monterey County,"Nacimiento Fergusson Rd, west of Jolon",150,100,36.2231079,-121.3877428
+Shandon Fire,10/04/2018 10:09,San Luis Obispo County,"Gillis Canyon Road and San Juan Road, east of Paso Robles",80,100,35.3540209,-120.3757163
+Silver Fire,10/04/2018 10:09,Shasta County,"Oak Run Rd and Little Ridge Rd, Palo Cedro",76,100,40.7965121,-121.9979194
+Wilson Fire,10/11/2018 08:49,Tehama County,"Wilson Lake Rd and Lost Creek Rd, 10 miles NW of Chester",261,100,40.1251334,-122.2015529
+Keenbrook Fire,10/15/2018 13:42,San Bernardino County,"Cajon Blvd and Kenwood Ave, Devore",53,100,34.8253019,-116.0833144
+Nimshew Fire,09/27/2018 08:16,Butte County,"Nimshew Rd & Centerville Rd, Magalia",33,100,39.6519275,-121.5858444
+Quimby Fire,09/27/2018 08:15,Santa Clara County,"Quimby Rd & Borden Dr, East San Jose",30,100,37.2333253,-121.6846349
+Copper Fire,10/04/2018 10:10,Lassen County,"McKenzie Meadows and Hwy 36, 15 miles west of Susanville",53,100,40.7685579,-120.730998
+Oak Fire,10/04/2018 10:10,Madera County,"Lonesome Oak Ln and Bissett Station Rd, Ahwahnee",360,100,37.1716264,-119.7737991
+Charlie Fire,10/11/2018 08:52,Los Angeles County,"Charlie Canyon Rd  and Tapia Canyon Rd, Castaic","3,380",100,34.3155072,-118.2096814
+Meyers Fire,09/27/2018 08:15,El Dorado County,Meyers Rd in Camino,12,100,38.7574137,-120.5276129
+Reservoir Fire,09/18/2018 08:19,San Luis Obispo County,"off Reservoir Canyon Road and Highway 101, east of San Luis Obispo",51,100,35.3540209,-120.3757163
+Metz Fire,09/14/2018 07:18,Monterey County,"Metz Road and Topo Road, east of Greenfield",400,100,36.2231079,-121.3877428
+Soboba Fire,09/24/2018 11:30,Riverside County,"off Soboba Rd. San Jacinto, northeast of San Jacinto City, Soboba",25,100,33.7219991,-116.0372472
+Irving Fire,09/14/2018 17:15,Marin County,"Samuel P Taylor State Park, northwest of the Community of Lagunitas",152,100,38.0409144,-122.6199638
+Fork Fire,11/15/2018 08:48,Los Angeles County,"East Fork Rd & San Gabriel Canyon Rd, Azusa",166,100,34.3155072,-118.2096814
+Snell Fire,09/15/2018 18:51,Napa County,"off Butts Canyon Rd and Snell Valley Rd, southeast of Middletown","2,490",100,38.4898675,-122.3218414
+Water Fire,09/14/2018 18:58,Kern County,"southbound I-5, south of Grapevine Rd.",200,100,35.3145701,-118.7538222
+Tulloch Fire,09/11/2018 06:57,Tuolumne County,"Hwy 108 and Tulloch Road, east of Oakdale",573,100,38.056944,-119.9919351
+Delta Fire,10/11/2018 08:51,Shasta County,"I-5 and Lamoine, 2 miles NW of Lakehead","63,311",100,40.7965121,-121.9979194
+Kerlin Fire,09/18/2018 08:20,Trinity County,"Kerlin Creek, west of Hyampom","1,751",100,40.6053256,-123.171268
+Ranchera Fire,09/05/2018 09:50,Shasta County,"Ranchera Road and Hill Boulevard, Shasta Lake City",13,100,40.7965121,-121.9979194
+Boot Fire,09/18/2018 08:20,Mono County,"Hwy 395 & Hwy 108, Sonora Junction","6,974",100,37.9533927,-118.9398758
+Sliger Fire,09/11/2018 06:58,El Dorado County,"Sliger Mine Rd and Hida Way, northwest of Georgetown",150,100,38.7574137,-120.5276129
+North Fire,09/18/2018 08:20,Placer County,"North Fork Campground, south of Emigrant Gap","1,120",100,39.1012064,-120.7650606
+Kelsey Fire,09/05/2018 09:51,Lake County,"Kelsey Creek Rd & Conklin Ln, Kelseyville",24,100,42.3327033,-87.9939552
+Ridge Fire,09/05/2018 09:50,Lake County,"Highland Springs Rd & Old Toll Rd, Kelseyville",36,100,42.3327033,-87.9939552
+Essex Fire,11/15/2018 08:27,Modoc County,"East of Essex Reservoir, northeast of Canby.",15,100,41.5450487,-120.7435998
+Ogilvy Fire,09/18/2018 08:20,Santa Barbara County,"Pie Canyon Rd and Mono-Alamar Rd, NE of Gibraltar Reservoir",172,100,34.7136533,-119.9858232
+Grade Fire,09/04/2018 15:09,Lake County,"off Knoxville Road and Knoxville Devilhead Road, Knoxville",60,100,42.3327033,-87.9939552
+Sterling,09/05/2018 09:51,San Bernardino County,"Sterling Ave and Foothill Dr, City of San Bernardino",125,100,34.8253019,-116.0833144
+Redinger Fire,08/30/2018 16:50,Madera County,"Mammoth Road, 29 miles north of Clovis",88,100,37.1716264,-119.7737991
+Winchester Fire,08/28/2018 12:21,Riverside County,"Hidden Falls Road, Winchester",36,100,33.7219991,-116.0372472
+Cache Fire,08/29/2018 21:32,Lake County,"Hwy 20 and New Long Valley Rd, Clear Lake Oaks",103,100,42.3327033,-87.9939552
+Castro Fire,08/27/2018 19:32,Alameda County,"I 580 and Paloverde Rd., Castro Valley",48,100,37.6090291,-121.899142
+Country Fire,08/26/2018 08:05,Riverside County,off High Country Drive in Moreno Valley,32,100,33.7219991,-116.0372472
+Eastman Fire,08/26/2018 08:06,Madera County,"Road 29 & Road 607, southwest of Eastman Lake",289,100,37.1716264,-119.7737991
+Land Fire,08/24/2018 18:14,Riverside County,"Hwy 60 and Jack Rabbit Trail, Beaumont",23,100,33.7219991,-116.0372472
+Keller Fire,08/24/2018 18:16,Riverside County,off Scenic View Drive and Keller Road,9.5,100,33.7219991,-116.0372472
+Front Fire,08/30/2018 16:50,Santa Barbara County,off Highway 166 and Sierra Madre Road,"1,014",100,34.7136533,-119.9858232
+Gorge Fire,08/24/2018 18:15,Shasta County,"off Highway 36 west and Beegum Gorge road, Platina area",155,100,40.7965121,-121.9979194
+Call Fire,08/30/2018 16:50,Kern County,"off Cow Flat Road and Highway 178, west of Lake Isabella",367,100,35.3145701,-118.7538222
+Marcel Fire,08/18/2018 20:28,Kern County,"off Marcel Drive and Woodford-Tehachapi Road, west of Tehachapi",34,100,35.3145701,-118.7538222
+Alhambra Fire,09/07/2018 13:15,Contra Costa County,"off Highway 4 and Alhambra Ave, Martinez",30,100,37.9034806,-121.9175345
+Pine Fire,08/16/2018 19:36,Kern County,"off Pine Mountain Road and Granite Road, north of Bakersfield",114,100,35.3145701,-118.7538222
+Mill Creek 1 Fire,09/02/2018 07:21,Humboldt County,"Hwy 96 & Mill Creek Road, northeast of the Town of Hoopa","3,674",100,40.5997415,-123.8997734
+River Fire (Mendocino Complex),09/11/2018 07:02,Colusa County,"Old River Rd, near Mile Marker Post 7.9, Hopland","48,920",100,39.1465578,-122.2209563
+River Fire,08/19/2018 20:19,Tulare County,"Old Stage Rd and White River Rd, southeast of Porterville",668,100,36.2516475,-118.852583
+Cloverdale Fire,09/04/2018 15:11,San Diego County,"off San Pasqual Valley Rd, near Escondido.",100,100,32.9637838,-116.7706277
+Oak Fire,08/16/2018 09:59,Nevada County,"off Oak Lane and Buck Mountain Road, south of Grass Valley",16,100,39.3540335,-120.8089843
+Stone Fire,09/04/2018 15:25,Modoc County,"Big Canyon, 10 miles SW of Canby","39,387",100,41.5450487,-120.7435998
+Gulch Fire,08/13/2018 09:11,Monterey County,"Dead Mans Gulch Rd and Sargents Rd, south of San Ardo",650,100,36.2231079,-121.3877428
+Nelson Fire,08/13/2018 09:13,Solano County,"Nelson Rd and Cherry Glen Rd, Vacaville","2,162",100,38.2218938,-121.9163555
+Syar Fire,08/13/2018 09:08,Napa County,Napa Vallejo Highway and Syar Industrial Way,10,100,38.4898675,-122.3218414
+Hat Fire,08/16/2018 19:26,Shasta County,"Hwy 299 east and Fish Hatchery rd, northeast of Burney","1,900",100,40.7965121,-121.9979194
+Rangeland Fire,08/13/2018 09:04,San Diego County,off Rangeland Road and Highway 78 in Ramona,250,100,32.9637838,-116.7706277
+Hirz Fire,09/14/2018 06:22,Shasta County,"off Gilman and Moore Creek Campground, east of Lakehead","46,150",100,40.7965121,-121.9979194
+Bridge Fire,08/09/2018 13:27,Marin County,"Platform Bridge Rd. and Point Reyes Station, northeast of Olema",45,100,38.0409144,-122.6199638
+Murphy Fire,08/16/2018 10:13,Plumas County,"off Hwy 70 near Chips Creek, west of Belden",117,100,39.9430988,-120.8059521
+Five Fire,08/08/2018 11:17,Kings County,"off Interstate 5 and Milham Rd, Kettleman Hills area","2,995",100,40.64530975,-73.9550230275334
+South Fire,08/07/2018 10:35,Calaveras County,"Near Milton Road and South Gulch Road, Rancho Calaveras",290,100,38.2558181,-120.4981492
+Holy Fire,08/27/2018 17:11,Orange County,"Holy Jim Canyon, west of N. Main Divide", , ,33.7500378,-117.8704931
+Terra Fire,08/07/2018 10:35,Riverside County,"off Terramor Road and Temescal Canyon Road, community of Temescal Valley",35,100,33.7219991,-116.0372472
+Turkey Fire,08/07/2018 10:34,Monterey County,"near Highway 46 and Turkey Flats, near Parkfield","2,225",100,36.2231079,-121.3877428
+Casner Fire,08/07/2018 10:35,San Diego County,"off Old Julian Highway and Creek Hollow, west of Ramona",14,100,32.9637838,-116.7706277
+Parrots Fire,08/08/2018 08:38,Calaveras County,"Parrots Ferry Rd x Camp 9 Rd, South of the community of Vallecito",136,100,38.2558181,-120.4981492
+Wagner Fire,08/08/2018 08:39,Mariposa County,"Texas Hill Rd and Bondurant Mine Rd, east of Coulterville",22,100,37.570148,-119.9036592
+Creek Fire,08/06/2018 13:14,Alameda County,"Welch Creek Rd and Geary Rd., southeast of Sunol",30,100,37.6090291,-121.899142
+Tarina Fire,08/06/2018 13:35,Kern County,"Breckenridge Rd & Comanche Dr, east of Bakersfield","2,950",100,35.3145701,-118.7538222
+Western Fire,08/05/2018 20:02,Mendocino County,"Off Highway 101, south of Hopland",106,100,39.3176491,-123.4126399
+Omega Fire,08/05/2018 20:02,El Dorado County,"off Omega Lane and Alpha Circle, west of Pilot Hill",66,100,38.7574137,-120.5276129
+Bumper Fire,08/05/2018 20:01,El Dorado County,"Bumper Rd & China Hill Rd, east of Frenchtown",67,100,38.7574137,-120.5276129
+Sunset Fire,08/02/2018 12:03,Placer County,"off Sunset Blvd. West and South Brewer Rd, northwest of Roseville",700,100,39.1012064,-120.7650606
+Butte Fire,08/05/2018 20:07,Sutter County,"Pass Road and W Butte Road, 9 miles northwest of Yuba City","1,200",100,38.9509675,-121.697088
+Eel Fire,08/08/2018 19:49,Mendocino County,"off Indian Dick Road and Mendocino Pass Road, east of Covelo",972,100,39.3176491,-123.4126399
+Owens Fire,08/10/2018 15:56,Inyo County,"Owens River Rd & Indiana Summit Rd, north of Mammoth Lakes",338,100,36.5595325,-117.4074712
+Corner Fire,08/05/2018 20:03,Shasta County,"Hwy 299 E & Hwy 89, east of Burney",35,100,40.7965121,-121.9979194
+Steele Fire,08/02/2018 12:04,Napa County,"off Arroyo Grande Drive and Steele Canyon Road, Capell",135,100,38.4898675,-122.3218414
+Sobrante Fire,07/29/2018 11:56,Riverside County,"El Sobrante Road at McAllister Street, Lake Matthews",30,100,33.7219991,-116.0372472
+Rock Fire,08/01/2018 08:57,San Diego County,Rock Mountain Dr. and Sandia Creek Dr. in the community of Fallbrook.,207,100,32.9637838,-116.7706277
+Whaleback Fire,08/09/2018 14:35,Lassen County,"off Whaleback Mountain and Antelope Valley Road, West of Spaulding","18,703",100,40.7685579,-120.730998
+Breckenridge Fire,07/28/2018 09:07,Kern County,"off Breckenridge Road and Tarina Ct, east of Bakersfield",993,100,35.3145701,-118.7538222
+Pasqual Fire,08/01/2018 08:57,San Diego County,"San Pasqual Valley Rd, west of Ramona",365,100,32.9637838,-116.7706277
+Balch Fire,08/01/2018 08:58,Tulare County,"off Balch Park Road and Yokohl Drive, northeast of Porterville",100,100,36.2516475,-118.852583
+Ranch Fire (Mendocino Complex),10/04/2018 10:10,Colusa County,"off Highway 20 near Potter Valley, northeast of Ukiah","410,203", ,39.1465578,-122.2209563
+Ribbon Fire,08/01/2018 08:59,Riverside County,Highway 74 and Ribbonwood Dr. near Pinyon,205,100,33.7219991,-116.0372472
+Church Fire,07/28/2018 09:13,Santa Clara County,"Monterey Road and Church Ave, San Martin",20,100,37.2333253,-121.6846349
+Patterson Fire,07/27/2018 09:34,Alameda County,"Patterson Pass Road and Midway Rd, Altamont",34,100,37.6090291,-121.899142
+Marsh Fire,07/29/2018 11:20,Contra Costa County,"Marsh Creek Rd and  Bragdon way, east of Mount Diablo",247,100,37.9034806,-121.9175345
+Hidden Fire,07/27/2018 09:36,San Benito County,"Hidden Valley Rd & Cienega Rd, south of Hollister",39,100,36.6248089,-121.1177379
+Roxie Fire (Formerly 1-1 Fire),08/01/2018 08:59,Lassen County,"Roxie Peconom Campground, west of Willard Cr, 10 mi west of Susanville",167,100,40.7685579,-120.730998
+Cranston Fire,08/13/2018 09:40,Riverside County,"off Highway 74 and Control Road, east of Hemet","13,139",100,33.7219991,-116.0372472
+Martinez Fire,07/28/2018 09:02,Riverside County,"Off Martinez Road & Avenue 66, Thermal",40,100,33.7219991,-116.0372472
+Crestline Fire,08/01/2018 08:59,Shasta County,"Crest Line Dr and Hunt Rd, Montgomery Creek, west of Burney",51,100,40.7965121,-121.9979194
+Carr Fire,09/04/2018 15:09,Shasta County,"Hwy 299 and Carr Powerhouse Rd, Whiskeytown","229,651",100,40.7965121,-121.9979194
+Pico Fire,07/27/2018 14:36,Los Angeles County,"off West Pico Canyon Rd and Potrero Canyon Rd, Stevenson Ranch area",128,100,34.3155072,-118.2096814
+Country Fire,07/26/2018 06:13,Santa Clara County,County Club Rd & N Park Victoria Rd in Milpitas,320,100,37.2333253,-121.6846349
+Heart Fire,07/27/2018 09:34,Mendocino County,"Hwy 101 at mile marker 38, west of Redwood Valley (Mendocino County)",67,100,39.3176491,-123.4126399
+Rock Fire,07/25/2018 06:27,San Luis Obispo County,"off Chimney Rock Rd and Gage Irving Rd, south of Lake Nacimiento (San Luis Obispo County)",30,100,35.3540209,-120.3757163
+Mustang Fire,07/23/2018 07:00,San Luis Obispo County,"Paso Robles Rd & Adelaida Rd, west of Paso Robles",37,100,35.3540209,-120.3757163
+Carder Fire,07/24/2018 08:47,Lake County,"Adobe Creek Rd & Peterson Ln, Kelseyville",50,100,42.3327033,-87.9939552
+Highland Fire,07/27/2018 09:37,Shasta County,"Highland Ridge Rd & Trinity Mt Rd, French Gulch",63,100,40.7965121,-121.9979194
+Windmill Fire,07/24/2018 08:49,Santa Barbara County,"Highway 246, west of Buellton",110,100,34.7136533,-119.9858232
+Cinnamon Fire,07/22/2018 06:58,San Diego County,"Old Julian Way & Cinnamon Rock Rd, east of Ramona",13,100,32.9637838,-116.7706277
+Horse Creek Fire,08/09/2018 14:32,Tulare County,"Mineral King Rd, Ash Mountain area",34,100,36.2516475,-118.852583
+Skyline Fire,07/27/2018 14:30,Riverside County,"off Skyline Drive and Burrero Way, in an unincorporated county area west of Corona Cit",282,100,33.7219991,-116.0372472
+Ben Fire,07/22/2018 06:58,Mariposa County,"Ben Hur Rd & Preston Rd, south of Ben Hur",40,100,37.570148,-119.9036592
+Simmons Fire,07/22/2018 06:59,Butte County,"Off Highway 162 & Simmons Rd, Lake Oroville",43,100,39.6519275,-121.5858444
+Eighty Eight Fire,07/22/2018 06:59,Yolo County,"off County Road 88 and County Road 29, north of Winters",822,100,38.7184542,-121.9059001
+Cruces Fire,07/22/2018 07:00,Santa Barbara County,"off Highway 1 and Highway 101, North of Gaviota",77,100,34.7136533,-119.9858232
+Lott Fire,07/22/2018 07:00,Siskiyou County,"off Lott Rd and Bunny Ln, 15 miles north of Weed",10,100,41.5007223,-122.544354147521
+Border Fire,07/18/2018 18:19,San Diego County,north of the Meixcan border and east of the Otay port of entry,28,100,32.9637838,-116.7706277
+Camp Fire,07/22/2018 07:01,San Luis Obispo County,"off Gage Irving Road, South Lake Nacimiento",14,100,35.3540209,-120.3757163
+Garner Complex,11/19/2018 15:56, ,"west of Hwy 199, 4 mi northwest of Cave Junction, OR","29,016",100,0,0
+3-18 Fire,07/18/2018 18:17,Lassen County,"Punkin Center Road and Juniper Road, 6 miles southwest of the Community of Bieber",32,100,40.7685579,-120.730998
+Natchez Fire,10/30/2018 15:00, ,"southeast of Cave Junction, OR","38,134",100,0,0
+3-16 Fire,07/18/2018 18:18,Lassen County,near Little Valley,89,100,40.7685579,-120.730998
+Johnson Fire,07/17/2018 12:31,Humboldt County,Highway 169 in Pecwan,16,100,40.5997415,-123.8997734
+Tuscan Fire,07/17/2018 12:31,Tehama County,"Hwy 36 E and Tuscan Lookout Road, 7 miles NE of Red Bluff near Hog Lake",50,100,40.1251334,-122.2015529
+3-10 Fire,07/18/2018 18:15,Lassen County,"Hwy 299 E and Little Valley Rd, Dixie Valley Peak, 16 miles east of Fall River Mills",56,100,40.7685579,-120.730998
+Steamboat Fire,07/22/2018 07:00,Siskiyou County,"Shasta Valley Wildlife Area, 4 miles south east of Montague",224,100,41.5007223,-122.544354147521
+3-2 Fire,07/17/2018 11:51,Lassen County,"off Homestead Ranch Road, southeast of Doyle",14,100,40.7685579,-120.730998
+Lariat Fire,07/17/2018 15:03,Tehama County,"off Oakridge Rd & Horseshoe Dr, Rancho Tehama, southwest of Red Bluff",33,100,40.1251334,-122.2015529
+Eagle Fire,08/09/2018 14:23,Modoc County,"County Rd 40/ County Rd1, South West of Eagleville","2,100",100,41.5450487,-120.7435998
+Kelley Fire,07/27/2018 09:38,Modoc County,"off Hwy 299 E & County Rd 74, west of Devils Garden Conservation Camp",52,100,41.5450487,-120.7435998
+Gray Fire,07/17/2018 11:30,San Bernardino County,Muscoy,12,100,34.8253019,-116.0833144
+Ferguson Fire,08/19/2018 07:14,Mariposa County,"Highway 140 and Hite Cove, near El Portal","96,901",100,37.570148,-119.9036592
+Stoney Fire,07/22/2018 07:01,Butte County,"Bidwell Park, Upper Park Rd, Chico",962,100,39.6519275,-121.5858444
+Idria Fire,07/17/2018 11:50,San Benito County,"Panoche Rd and New Idria Rd, west of San Joaquin",116,100,36.6248089,-121.1177379
+Panoche Fire,07/17/2018 11:49,San Benito County,"off Panoche Road, 2 miles north of CAL FIRE Antelope Station, southeast of Hollister",278,100,36.6248089,-121.1177379
+School Fire,07/13/2018 10:48,Madera County,"in the area of Road 230 and Road 225, North Fork",12,100,37.1716264,-119.7737991
+Curie Fire,07/13/2018 10:47,Santa Clara County,"Curie Dr and San Ignacio Ave, southeast of San Jose",56,100,37.2333253,-121.6846349
+Hale Fire,07/13/2018 10:46,Santa Clara County,at Hale Ave and Monterey St. in Morgan Hill,51,100,37.2333253,-121.6846349
+Dark Fire,07/13/2018 10:46,Butte County,"south of Rich Gulch, near Lake Oroville",11,100,39.6519275,-121.5858444
+Spring 2 Fire,07/13/2018 10:46,Lake County,"Pawnee Dr. and New Long Valley Dr., northeast of Clearlake",80,100,42.3327033,-87.9939552
+Cornerstone Fire,07/11/2018 13:38,Madera County,"Cornerstone Court, Yosemite Lakes",11,100,37.1716264,-119.7737991
+Dale Fire,07/13/2018 10:46,Tehama County,"off Hwy 36 and Manton Rd, 10 miles NE of Red Bluff",856,100,40.1251334,-122.2015529
+James Loop Fire,07/17/2018 11:52, ,"Jacks Valley Rd and James Canyon Loop, 7 miles northwest of Minden Nevada",280,100,0,0
+Grant Fire,07/18/2018 15:04,Alameda County,"off I580 and Grantline Rd, Altamont Area",640,100,37.6090291,-121.899142
+Bruce Fire,07/09/2018 07:14,Contra Costa County,"off Bruce Lane and Joseph Lane, east of San Ramon",56,100,37.9034806,-121.9175345
+Vista Fire,07/09/2018 07:01,Shasta County,"off Hwy 299 E and Deschutes Rd, Bella Vista",31,100,40.7965121,-121.9979194
+Georges Fire,11/15/2018 08:49,Inyo County,"off Hogback and Whitney Portal Road, Alabama Hills"," 2,883",100,36.5595325,-117.4074712
+Lebec Fire,07/10/2018 10:10,Kern County,"off Lebec Road and Lebec Oaks Road, North of Lebec",62,100,35.3145701,-118.7538222
+Bridle Fire,07/07/2018 07:09,Santa Clara County,"off Bridal Path Drive and Butch Drive, east of Gilroy",116,100,37.2333253,-121.6846349
+Holiday Fire,07/11/2018 13:38,Santa Barbara County,"off north Fairview Ave and Holiday Hill Road, City of Goleta",113,100,34.7136533,-119.9858232
+Irish Fire,07/11/2018 13:37,Amador County,"off Irish Ridge Road and Carbondale Road, southeast of Plymouth",825,100,38.449089,-120.5911018
+Valley Fire,09/14/2018 06:23,San Bernardino County,Valley of the Falls Dr & Service Road 1S08,"1,350",100,34.8253019,-116.0833144
+West Fire,07/11/2018 13:36,San Diego County,"off I-8 & West Willows Rd, Community of Alpine",504,100,32.9637838,-116.7706277
+Building Fire,07/07/2018 09:29,San Diego County,off Highway 94 and Community Building Road near Dulzura,10,100,32.9637838,-116.7706277
+Box Fire,07/13/2018 10:47,San Bernardino County,"off Interstate 15 and Kenwood Ave, north of San Bernardino",100,100,34.8253019,-116.0833144
+Peach Fire ,07/06/2018 15:42,Mendocino County,"off Peachland Road and Highway 128, north of the Community of Boonville",90,100,39.3176491,-123.4126399
+Klamathon Fire,07/23/2018 07:02,Siskiyou County,"off Klamathon Road and Copco Road, south of Hornbrook","38,008",100,41.5007223,-122.544354147521
+Shingle Fire,07/05/2018 06:52,El Dorado County,"off South Shingle Road and Latrobe Road, west of Latrobe",316,100,38.7574137,-120.5276129
+Benton Fire,07/05/2018 19:21,Riverside County,off Benton Road and Crams Corner Drive in Anza,63,100,33.7219991,-116.0372472
+Stony Fire,07/04/2018 19:30,Colusa County,"off Stonyford Road and Lake Park, west of Maxwell",75,100,39.1465578,-122.2209563
+Par Fire,07/04/2018 18:33,Butte County,"off Par Four Way and Highway 162, west of the City of Oroville",191,100,39.6519275,-121.5858444
+Petersburg Fire,07/11/2018 13:34,Siskiyou County,Petersburg and Caribou Creek Rd 3 MI SW of Cecilville,215,100,41.5007223,-122.544354147521
+Buckingham Fire,07/13/2018 10:50,Contra Costa County,"Buckingham Dr and Moraga Rd, southwest of Walnut Creek",45,100,37.9034806,-121.9175345
+County Fire,07/17/2018 11:45,Napa County,east of Lake Berryessa,"90,288",100,38.4898675,-122.3218414
+Creek Fire,07/11/2018 13:36,San Bernardino County,"Hwy 330 and Old City Creek Rd, Community of Running Springs",33,100,34.8253019,-116.0833144
+Tesla Fire,07/02/2018 09:20,Santa Clara County,"Tesla Road and Reuss Road, east of Livermore",70,100,37.2333253,-121.6846349
+Sheep Fire,07/01/2018 07:58,Kern County,"Comanche Point Rd, 3 miles south of Arvin",95,100,35.3145701,-118.7538222
+Valley Fire,07/01/2018 07:39,Contra Costa County,"Ygnaciao Valley Road and Cowell Road, Concord",268,100,37.9034806,-121.9175345
+Grant Fire,07/01/2018 07:37,Sacramento County,"off Grant Line Rd and White Rock Rd, southwest of Folsom",30,100,38.4732259,-121.2980707
+Waverly Fire,07/02/2018 09:21,San Joaquin County,"off North Waverly Road and North Shelton Road, east of Linden","12,300",100,37.9372901,-121.2773719
+Llano Fire,07/02/2018 09:39,Butte County,"at the Llano Seco Ranch, south of Chico",7,100,39.6519275,-121.5858444
+Flat Fire,07/05/2018 17:30,Trinity County,"Reading Creek Road, SE of Douglas City",300,100,40.6053256,-123.171268
+Cherry Fire,07/05/2018 17:43,Siskiyou County,"Cherry Maple Road Klamath River, NW of Yreka, Klamath National Forest",63,100,41.5007223,-122.544354147521
+Hyatt Fire,07/17/2018 08:54,Lassen County,"Hyatt Ln and Standish Buntingville Rd, 5 miles east of Janesville",441,100,40.7685579,-120.730998
+Anchor Fire,07/01/2018 07:40,Fresno County,"Anchor Ave and Hills Valley Rd, north of Orange Cove",76,100,36.6713502,-119.8155355
+Shippee Fire,07/01/2018 07:59,Butte County,"Midway Road and Esquon Road , 4 miles SE  of Durham",347,100,39.6519275,-121.5858444
+Fox Fire,06/28/2018 10:46,San Luis Obispo County,"Camp San Luis Obispo Range Echo, 3 miles NW of San Luis Obispo",260,100,35.3540209,-120.3757163
+Romero Fire,06/25/2018 16:39,Merced County,"Hwy 152 & Lower Cottonwood, west of Los Banos",68,100,37.1641544,-120.7678602
+Horse Fire,06/28/2018 10:34,Calaveras County,"Horseshoe Rd & Stagecoach Dr, near Copperopolis",80,100,38.2558181,-120.4981492
+Flat Fire,07/01/2018 07:55,Tuolumne County,"Hwy 49 & Marshes Flat Rd, in the Community of Moccasin",163,100,38.056944,-119.9919351
+Creek Fire,07/05/2018 17:22,Shasta County,"Clear Creek Rd & American Rd, west of Redding","1,678",100,40.7965121,-121.9979194
+Pawnee Fire,07/09/2018 11:57,Lake County,"Pawnee Rd & New Long Valley Rd, northeast of Clearlake Oaks","15,185",100,42.3327033,-87.9939552
+Canyon Fire,07/01/2018 07:56,Los Angeles County,North of Lake Piru,62,100,34.3155072,-118.2096814
+Stoll Fire,06/28/2018 10:38,Tehama County,"Stoll Rd & Baker Rd, west of Red Bluff",268,100,40.1251334,-122.2015529
+Sierra Fire,07/01/2018 07:56,Tehama County,"Off Casale Rd & Reading Rd, south of Red Bluff",170,100,40.1251334,-122.2015529
+Bascom Fire,06/28/2018 10:40,Shasta County,"Off Bascom Rd & Hwy 44, in Millville",328,100,40.7965121,-121.9979194
+Lane Fire,07/04/2018 18:57,Tehama County,Off Hwy 36 in Paynes Creek,"3,716",100,40.1251334,-122.2015529
+Lions Fire,07/16/2018 14:19,Madera County,near the Lion Point area in the Ansel Adams Wilderness,"4,064",100,37.1716264,-119.7737991
+Creek Fire,06/28/2018 10:54,San Luis Obispo County,"Suey Creek Road & Crystal Springs, east of Nipomo",2.8,100,35.3540209,-120.3757163
+Yankee Fire,07/01/2018 07:57,San Luis Obispo County,"E. Perimeter Rd, Yankee training area, Camp Roberts Military Reservation",1500, ,35.3540209,-120.3757163
+Ranchita Fire,06/21/2018 10:22,Monterey County,"Ranchita Canyon Road, southwest of the town of Parkfield",10,100,36.2231079,-121.3877428
+Iron Fire,06/19/2018 16:21,Contra Costa County," off Montbretia Way and Ironwood, East of San Ramon",40,100,37.9034806,-121.9175345
+Wheeler Fire,06/21/2018 10:22,Mariposa County,"Wheeler Gulch & Hwy 49 South, southwest of Coulterville",115,100,37.570148,-119.9036592
+Dinosaur Fire,06/21/2018 10:22,Merced County,"off Dinosaur Road and Highway 152, Santa Nella",185,100,37.1641544,-120.7678602
+Vallecitos Fire,06/18/2018 09:49,Alameda County,"off Vallecitos Road and Little Valley, south of Livermore",20,100,37.6090291,-121.899142
+Upper Colony Fire,07/11/2018 13:35, ,"off Upper Colony Road, Smith Valley, East of Hwy 395, Nevada","1,202",100,0,0
+China Fire,06/19/2018 16:39,Amador County,"off China Gulch Road and Comanche Parkway North, Jackson Valley",17,100,38.449089,-120.5911018
+Willow Fire,06/18/2018 08:34,Contra Costa County,"off Willow Pass Road at Evora Road, Baypoint",25,100,37.9034806,-121.9175345
+Creek Fire,06/18/2018 08:35,Lake County,"off Rocky Creek Road at Morgan Valley Rd, community of Lower Lake",32,100,42.3327033,-87.9939552
+Oregon Fire,06/21/2018 10:22,Butte County,"off Oregon Gulch Road, near View Lane, North of Oroville",40,100,39.6519275,-121.5858444
+Boyer Fire,06/21/2018 10:22,Mariposa County,"off Boyer Road and Fox Hollow Lane, Community of Bootjack",53,100,37.570148,-119.9036592
+Raymond Fire,06/18/2018 10:54,Madera County,"off Road 407 and Road 600, Community of Raymond",60,100,37.1716264,-119.7737991
+Planada Fire,06/21/2018 10:21,Merced County,"off Doug Road and Bonner Road, north of the community of Planada","4,564",100,37.1641544,-120.7678602
+Tumbleweed Fire,07/02/2018 09:27,Lassen County,"off Highway 395 Southeast of Litchfield, East of Susanville",646, ,40.7685579,-120.730998
+Creston FIre,06/18/2018 08:35,San Luis Obispo County,"off Creston Road, east of Paso Robles",60,100,35.3540209,-120.3757163
+Bridle Fire,06/21/2018 10:21,Riverside County,"off Crazy Horse Canyon Drive and Bridle Trail Road, Community of Aguanga",20,100,33.7219991,-116.0372472
+70 Fire,06/15/2018 07:56,Butte County,"off Highway 70 at Table Mountain Road, north of Oroville",20,100,39.6519275,-121.5858444
+Vista Fire,06/15/2018 07:56,San Luis Obispo County,"off Buena Vista Road, north of Paso Robles",60,100,35.3540209,-120.3757163
+Portola Fire ,06/18/2018 10:08,Los Angeles County,off Westwanda Drive and Benedict Canyon Drive,20,100,34.3155072,-118.2096814
+Euclid Fire,07/13/2018 10:51,Riverside County,off Highway 71 south of Euclid Avenue in Chino,154,100,33.7219991,-116.0372472
+Beaver Fire,06/25/2018 16:39,San Benito County,"off Coalinga Highway and Airline Highway, East of King City",215,100,36.6248089,-121.1177379
+Santiago Fire,06/15/2018 07:57,Orange County,off Highway 241 and Santiago Canyon Road,155,100,33.7500378,-117.8704931
+Liberty Fire,06/14/2018 08:42,San Joaquin County,off East Liberty Road,62,100,37.9372901,-121.2773719
+Sam Fire,06/10/2018 07:11,Monterey County,"Sam Jones and Jolon Rd, Fort Hunter Liggett",96,100,36.2231079,-121.3877428
+South Fire,06/14/2018 08:40,Los Angeles County,"I-5 and Calgrove Blvd, Santa Clarita",175,100,34.3155072,-118.2096814
+Mission Fire,06/10/2018 14:31,Marin County,"Mission Avenue and C Street, City of San Rafael",12.6,100,38.0409144,-122.6199638
+Chrome Fire,06/21/2018 10:24,Glenn County,"Hwy 162 and Forest Hwy 7, north of Elk Creek","2,290",100,39.5912766,-122.3778662
+Apple Fire,06/14/2018 08:40,Tehama County,"Off Apple Rd & Paskenta Rd, west of Corning","2,956",100,40.1251334,-122.2015529
+Bear Fire,06/10/2018 14:32,Merced County,"Cunningham Road and Hwy 140, Planda",200,100,37.1641544,-120.7678602
+Recycle Fire,06/09/2018 17:24,San Diego County,"Off Hwy 94 and Campo Truck Trail, Campo",265,100,32.9637838,-116.7706277
+Vista Fire,06/07/2018 08:25,San Diego County,"Vista Del Lago/Via Ranchitos, Fallbrook",12.5,100,32.9637838,-116.7706277
+Pallet Fire,06/07/2018 08:29,Sonoma County,"Hwy 12 and Broadway, Schellville",10,100,38.5110803,-122.8473388
+Meamber Fire,06/06/2018 08:53,Siskiyou County,"Meamber Creek Road, 8 miles west of Fort Jones",12, ,41.5007223,-122.544354147521
+Panoche Fire,06/07/2018 08:26,San Benito County,"Panoche Road, north of San Benito",64,100,36.6248089,-121.1177379
+ONeals Fire,06/08/2018 08:38,Madera County,"Road 210 and Road 200, Oneal",300,100,37.1716264,-119.7737991
+Eastern Fire,06/14/2018 08:39,San Benito County,"Coalinga Road, east of Bitterwater",513,100,36.6248089,-121.1177379
+Airline Fire,06/14/2018 08:39,San Benito County,Coalinga and Airline Highway,"1,314",100,36.6248089,-121.1177379
+Stone Fire,06/14/2018 08:38,Los Angeles County,"off Anthony Road and Hierba Road, North of Agua Dulce","1,352",100,34.3155072,-118.2096814
+Green Fire,06/04/2018 09:58,San Diego County,"Greenwick Rd and Brabham St, Community of Rancho San Diego",5.1,100,32.9637838,-116.7706277
+Adobe Fire,06/10/2018 14:32,San Diego County,"I-8 and College Ave, San Diego City",38,100,32.9637838,-116.7706277
+Martin Fire,06/05/2018 12:10,Siskiyou County,"Martin Dr. and Stanton Drive, NE of Lake Shastina",37,100,41.5007223,-122.544354147521
+Resort Fire,06/05/2018 19:00,San Luis Obispo County,"Lake Nacimiento, 10 miles west of Paso Robles",12,100,35.3540209,-120.3757163
+Fairview Fire,06/04/2018 08:25,San Benito County,"Fairview Rd and John Smith Rd, City of Hollister",35,100,36.6248089,-121.1177379
+Ethanac Fire,06/04/2018 08:26,Riverside County,"Highway 74 and Ethanac Rd, City of Perris",17,100,33.7219991,-116.0372472
+Grande Fire,06/05/2018 19:00,Riverside County,"Vuelta Grande Rd and Carancho Rd, Community of De Luz",11,100,33.7219991,-116.0372472
+Black Fire,06/04/2018 08:26,Tehama County,Black Butte Lake and Newville Road west of Orland,10,100,40.1251334,-122.2015529
+Coldwell Fire,06/04/2018 08:26,Fresno County,"Hwy 198 and Coldwell Ln, 10 miles west of Coalinga", ,100,36.6713502,-119.8155355
+Jardin Fire,06/04/2018 15:15,Riverside County,"Calle Jardin  and Calle Uva, Temecula",10,100,33.7219991,-116.0372472
+Aliso Fire,06/10/2018 14:32,Orange County,"Aliso Woods Canyon Park, Community of Aliso Viejo",175,100,33.7500378,-117.8704931
+Glen Fire,06/04/2018 08:26,Contra Costa County,Glen Canyon Circle and  Chaparral Drive  SE of Pittsburg,23,100,37.9034806,-121.9175345
+Plymire Fire,06/04/2018 08:27,Tehama County,"Plymire Rd and Deer Valley Rd, West of Red Bluff",23,100,40.1251334,-122.2015529
+Open Fire,06/07/2018 08:30,Glenn County,"Open Ridge, NW of Dry Creek Hill, 11 miles SW of Elk Creek",127,100,39.5912766,-122.3778662
+Madison FIre,06/04/2018 08:27,Yolo County,"County Road 25 and County Road 86A, community of Madison north of Winters",14,100,38.7184542,-121.9059001
+Grant Fire,06/04/2018 08:24,Alameda County,"near Grant Line Rd and Mountain House Rd, Altamont Area",7 fires totaling - 484,484 acres -  100,37.6090291,-121.899142
+Vineyard Fire,06/04/2018 08:24,San Luis Obispo County,"Estrella Rd and Airport Rd, North of Paso Robles",25,100,35.3540209,-120.3757163
+Stuhr Fire,06/04/2018 08:23,Stanislaus County,"Interstate 5 and Stuhr Rd, South of Patterson",63,100,37.5500871,-121.0501425
+Chrome Fire,06/04/2018 08:22,Glenn County,"Hwy 162 and Forest Hwy 7, northwest of Elk Creek",75,100,39.5912766,-122.3778662
+70th Fire,06/04/2018 08:24,Riverside County,"Highway 86 Expressway and Avenue 70, Thermal",3.2,100,33.7219991,-116.0372472
+Keeler Fire,05/29/2018 08:54,Santa Clara County,"Keeler Court and Santa Teresa Blvd., south of San Jose",16,100,37.2333253,-121.6846349
+Cobble Fire,05/29/2018 08:11,Fresno County,"Cobblestone Lane and Thernal Road, Tivy Valley",108,100,36.6713502,-119.8155355
+Water Fire,05/29/2018 08:53,San Luis Obispo County,"Bitterwater Rd and Bitterwater Canyon Rd, California Valley Area",100,100,35.3540209,-120.3757163
+Experimental Fire,05/29/2018 08:56,Madera County,"Off Hwy 41 & Rd 406, south of ONeals",56,100,37.1716264,-119.7737991
+Agua Fire,05/29/2018 11:43,San Diego County,"Hwy 76 and Agua Tibia Ranch Rd, 7.5 miles east of I-15",59,100,32.9637838,-116.7706277
+Bellagio Fire,05/23/2018 08:35,Napa County,"American Canyon Rd, East of American Canyon",12,100,38.4898675,-122.3218414
+Plaza Fire,05/21/2018 14:47,Merced County,off Highway 33 and south of Highway 152,88,100,37.1641544,-120.7678602
+Ager Fire,05/21/2018 14:47,Siskiyou County,"off Ager Road, northeast of Montague",27,100,41.5007223,-122.544354147521
+Jelly Fire,05/21/2018 14:48,Tehama County,"Off Jellysferry Rd, north of Red Bluff",103,100,40.1251334,-122.2015529
+White Fire,05/21/2018 14:48,Tulare County,"off Road 272 and Avenue 2, east of Delano",26,100,36.2516475,-118.852583
+Patterson Fire,05/21/2018 14:48,Riverside County,"off Rawson Road and Royal Netherlands Road, south of Winchester","1,261",100,33.7219991,-116.0372472
+Happy Fire,05/21/2018 14:49,Santa Barbara County,"Alisos Canyon Rd, Santa Ynez, north of Santa Barbara",60,100,34.7136533,-119.9858232
+Twisselman Fire,05/17/2018 09:03,Kern County,"Twisselman Road and Kecks Road, west of Highway 33",293,100,35.3145701,-118.7538222
+Grant Fire,05/17/2018 09:03,Alameda County,"Grant Line Road and I-580, east of Livermore",12,100,37.6090291,-121.899142
+Volcan Fire,05/17/2018 09:02,San Diego County,"Volcan Road and Farmer Road, north of the community of Julian",12, ,32.9637838,-116.7706277
+Shastina Fire,05/17/2018 09:02,Siskiyou County,"west of Rancho Hills, community of Lake Shastina, north of Weed",127,100,41.5007223,-122.544354147521
+Jacques Fire,05/17/2018 09:01,San Diego County,"De Luz Rd and Wisecarver fuel break, Camp Pendleton Marine Corps Base",18,100,32.9637838,-116.7706277
+Woodchuck Fire,05/17/2018 09:00,Riverside County,"Hwy 79 & Woodchuck Road, Temecula",15,100,33.7219991,-116.0372472
+Tornado Fire,05/17/2018 09:01,Riverside County,"Via Santa Rosa near Via Tornado, southwest of Temecula",70,100,33.7219991,-116.0372472
+Alpha Fire,05/17/2018 09:00,San Diego County,"Basilone Rd and San Juan Rd, Camp Pendleton Marine Corps Base",300,100,32.9637838,-116.7706277
+Nees Fire,05/17/2018 09:00,Merced County,Interstate 5 and W Nees Ave. south of Los Banos,"1,756",100,37.1641544,-120.7678602
+Main Fire,04/30/2018 10:57,Riverside County,"Main Street and Interstate 15, City of Lake Elsinore",73,100,33.7219991,-116.0372472
+French Fire,04/30/2018 10:56,Plumas County,"Frenchman Lake Rd., south of Frenchman Lake, 7 miles north of Chilcoot",20,100,39.9430988,-120.8059521
+Grape Fire,07/02/2018 09:22,Humboldt County,"Black Bennet Rd. near Grape Creek, 8 miles southwest of Burnt Ranch", , ,40.5997415,-123.8997734
+Lago Fire,04/30/2018 10:56,Riverside County,"Via Del Lago and Alta Calle, Lake Perris, Moreno Valley",18,100,33.7219991,-116.0372472
+Moffat Fire,05/21/2018 07:57,Inyo County,"Highway 395 and Moffat Ranch Road, north of Lone Pine","1,265",100,36.5595325,-117.4074712
+Tyler Fire,04/16/2018 16:29,Riverside County,"Tyler Street and Vista Del Sur, Coachella, City of Coachella",15,100,33.7219991,-116.0372472
+Aqueduct Fire,04/16/2018 16:30,Fresno County,"25th Ave & Ultica Ave, south of Kettleman City",30,100,36.6713502,-119.8155355
+Meadow Fire,04/10/2018 08:39,Riverside County,"Tin Mine Rd, north of the Cajalco Expressway",21,100,33.7219991,-116.0372472
+Rock Fire,04/03/2018 09:58,Shasta County,"Rock Creek Rd, SE of Shingletown",11,100,40.7965121,-121.9979194
+Santa Cruz Fire,04/12/2018 13:54,Santa Barbara County,"Channel Islands National Park, Santa Cruz Island",258,100,34.7136533,-119.9858232
+Wilcox Fire,03/28/2018 08:39,Tulare County,"Road 136 and Avenue 440, Community of Orosi",33,100,36.2516475,-118.852583
+Pleasant Fire,04/03/2018 09:57,Inyo County,"Pleasant Valley Dam Road and Hwy 395, north of Bishop","2,070",100,36.5595325,-117.4074712
+Haycamp Fire,02/07/2018 15:53,Monterey County,"Nacimento Fergusson Road and Hayfork Road, west of the community of Lockwood",50,100,36.2231079,-121.3877428
+Montecito Flooding / Mudflows,03/28/2018 08:38,Santa Barbara County,"Montecito, Summerland and Carpenteria", , ,34.7136533,-119.9858232
+Thomas Fire,03/28/2018 08:38,Santa Barbara County,"Hwy 150 and Hwy 126, north of Santa Paula","281,893",100,34.7136533,-119.9858232
