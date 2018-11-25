@@ -127,6 +127,8 @@ outputFireFile = 'fire-list-{}.csv'.format(
 					datetime.now().strftime("%m-%d-%Y-%H:%M"))
 print("Writing {} entries to: {}...".format(len(all_fires), outputFireFile))
 f = csv.writer(open(outputFireFile, 'w'))
-f.writerow(['Name', 'Time', 'County', 'Location', 'Acres', 'Containment'])
+f.writerow(['Name', 'Time', 'County',
+	'Location', 'Acres', 'Containment'
+	'Latitude', 'Longitude'])
 f.writerows(all_fires)
 print("...Done")
