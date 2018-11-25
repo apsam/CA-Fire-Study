@@ -1,4 +1,4 @@
-# Califronia Fire Incident Study
+# California Fire Incident Study
 A study of California fire incident data reported by Cal Fire. http://www.fire.ca.gov/current_incidents 
 
 ## Background
